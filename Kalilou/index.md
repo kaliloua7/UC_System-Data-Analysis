@@ -45,7 +45,7 @@ In 2020, the CAR dropped  to 66.9% with the majority of the students again comin
 
 To conclude my report on this data, I would like to show this graph that displays the CAR per year for UC institutions. 
 
-{%include_relative Vis/CRA_per_year.html%}
+{% include_relative Vis/CRA_per_year.html %}
 
-This visualization shows that the CRA has remained more or less the same over the considered time period. On average, about 68% of the applications from international high schools are admitted. One reason as to why this value does not show much variance over the year could be that UC institutions have a cap on the percentage of international students that they can admit in a year. Otherwise, it is quite hard to justify why the CAR hardly fluctuates over the year.
+This visualization shows that the CAR has remained more or less the same over the considered time period. On average, about 68% of the applications from international high schools are admitted. One reason as to why this value does not show much variance over the year could be that UC institutions have a cap on the percentage of international students that they can admit in a year. Otherwise, it is quite hard to justify why the CAR hardly fluctuates over the year.
 
