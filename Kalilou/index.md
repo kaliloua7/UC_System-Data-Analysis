@@ -33,7 +33,7 @@ The CAR of 2018 decreased to 69.6% with most international students coming from 
 
 The 2019 metrics’ are:
 
-{%include_relative Vis/UC_crosstab_2019.csv.html%}
+{%include_relative Vis/UC_crosstab_2019.html%}
 
 In 2019, the CAR was 69.8% with most students coming from Asian highschools(8/15) and a fair amount of them are from an European based highschool (4/15).
 
