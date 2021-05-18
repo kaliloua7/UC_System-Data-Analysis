@@ -26,7 +26,6 @@ Often this involves looking at each column and doing univariate descriptions and
 
 Here are a few basic visualizations of the amount of students of a certain ethnicity admitted to the University:
 
-{% include_relative /simple2.html %}
 
 {% include_relative /simple.html %}
 
